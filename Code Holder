@@ -1,0 +1,4 @@
+grantHP.health += getDamage();
+            console.log(userInput + " has health is now " + playerHP.health);
+            playerHP.health += getDamage();
+            console.log( "Grant health is now " + grantHP.health);
